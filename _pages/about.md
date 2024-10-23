@@ -17,8 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a MS student in Mathematics, Computational Science and Engineering, and Statistics at Georgia Tech, Atlanta, GA. I am fortunately joining the team of [Prof. Kai Wang](https://guaguakai.com/), and onboarding with [Prof. Cassie S. Mitchell](https://bme.gatech.edu/bme/faculty/Cassie-S.-Mitchell), PI at [Laboratory for Pathology Dynamics](https://sites.gatech.edu/cassie-mitchell-lab/), under the guidance of PhD student [Jiajia Xie](https://www.cse.gatech.edu/people/jiajia-xie), and will be a Graduate Research Assistant (GRA) starting in January, 2025.
-Previously, I received my B.A. in Mathematics and B.A in Computer Science from Skidmore College under the supervision of [Prof. Mark E. Huibregtse](https://academics.skidmore.edu/blogs/mhuibreg/), focusing on Algebraic Geometry and Algorithm, especially in Hilbert Scheme of Points.
+I am currently a MS student in Mathematics, Computational Science and Engineering, and Statistics at Georgia Tech, Atlanta, GA. I am fortunate to be part of [Prof. Kai Wang](https://guaguakai.com/)'s team. Currently, I am onboarding with [Prof. Cassie S. Mitchell](https://bme.gatech.edu/bme/faculty/Cassie-S.-Mitchell), PI at [Laboratory for Pathology Dynamics](https://sites.gatech.edu/cassie-mitchell-lab/), under the guidance of PhD student [Jiajia Xie](https://www.cse.gatech.edu/people/jiajia-xie), and will be a Graduate Research Assistant (GRA) starting in January 2025.
+
+Previously, I received B.A. in Mathematics and B.A in Computer Science from Skidmore College under the supervision of [Prof. Mark E. Huibregtse](https://academics.skidmore.edu/blogs/mhuibreg/), focusing on Algebraic Geometry and Algorithm, especially in Hilbert Scheme of Points.
 
 My research interest includes algebraic geometry, machine learning theory, deep learning theory, reinforcement learning, and Data Science.
 
