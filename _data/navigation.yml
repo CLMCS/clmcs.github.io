@@ -3,20 +3,20 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "Ongoing Research and Project"
+    url: "/#-ongoing-reserach-and-project"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Previous Projects"
+    url: "/#-previous-projects"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Research Presentations"
+    url: "/#-reserach-representations"
 
-  - title: "Educations"
-    url: "/#-educations"
+  # - title: "Educations"
+  #   url: "/#-educations"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  # - title: "Invited Talks"
+  #   url: "/#-invited-talks"
 
-  - title: "Internships"
-    url: "/#-internships"
+  # - title: "Internships"
+  #   url: "/#-internships"
