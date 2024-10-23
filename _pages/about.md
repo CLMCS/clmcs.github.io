@@ -17,45 +17,32 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a MS student in Mathematics, Computational Science and Engineering, and Statistics at Georgia Tech, Atlanta, GA. 
-Previously, I earned my Bachelor of Arts in Mathematics and Bachelor of Arts in Computer Science supervised by [Professor Mark E. Huibregtse](https://academics.skidmore.edu/blogs/mhuibreg/)
+I am currently a MS student in Mathematics, Computational Science and Engineering, and Statistics at Georgia Tech, Atlanta, GA. I am fortunately joining the team of [Prof. Kai Wang](https://guaguakai.com/), and onboarding with [Prof. Cassie S. Mitchell](https://bme.gatech.edu/bme/faculty/Cassie-S.-Mitchell), PI at [Laboratory for Pathology Dynamics](https://sites.gatech.edu/cassie-mitchell-lab/), under the guidance of PhD student [Jiajia Xie](https://www.cse.gatech.edu/people/jiajia-xie), and will be a Graduate Research Assistant (GRA) starting in January, 2025.
+Previously, I received my B.A. in Mathematics and B.A in Computer Science from Skidmore College under the supervision of [Prof. Mark E. Huibregtse](https://academics.skidmore.edu/blogs/mhuibreg/), focusing on Algebraic Geometry and Algorithm, especially in Hilbert Scheme of Points.
 
-<a href='https://sites.gatech.edu/cassie-mitchell-lab/'> <a href='https://academics.skidmore.edu/blogs/mhuibreg/'>
+My research interest includes algebraic geometry, machine learning theory, deep learning theory, reinforcement learning, and Data Science.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+# 📝 Ongoing Research&Project
+- Score-based Stochastic Network Diffusion Models for Connectomes Dynamics under Neurodegeneration ([Jiajia Xie](https://www.cse.gatech.edu/people/jiajia-xie), [Prof. Cassie S. Mitchell](https://bme.gatech.edu/bme/faculty/Cassie-S.-Mitchell))
+- Restless Multi-armed Bandit under Matroid Constraint ([Prof. Kai Wang](https://guaguakai.com/))
+- Enhanced Spatial Temporal Time Series Forecasting for Traffic Prediction using Large Language Models (CS7650: Natural Language Processing)
 
+# 📝 Previous Projects
+- *2024.05*, Nonparametric Autoencoders ([Prof. Wenjing Liao](https://wliao60.math.gatech.edu/))
+- *2024.05*, Multimodal Analysis for Detecting Hateful Memes (CS 7643: Deep Learning)
+- *2023.12*, Physics Informed Neural Networks ([Prof. Shihao Yang](https://www.isye.gatech.edu/users/shihao-yang))
+- *2023.05*, Extended Dynamic Mode Decomposition ([Prof. Nisha Chandramoorthy](https://cse.gatech.edu/people/nisha-chandramoorthy))
+- *2023.04*, Misinformation Detection on Social Network (CSE6240: Web Search & Text Mining)
+- *2023.04*, Evacuation Simulation: Based on Agent-based Model (CSE6730: Modeling and Simulation)
+- *2023.03*, Single-cell Clustering ([Prof. Xiuwei Zhang](https://research.gatech.edu/people/xiuwei-zhang))
+- *2022.12*, Relational Machine Learning for Knowledge Graphs (CSE8803NDA: Numerical Algorithms for Data Analytics)
+- *2022.12*, Analysis of Algorithms to Solve Minimum Vertex Cover Problem (CSE6140: Algorithm)
+- *2022.08*, TransMimic: Cross Morphologies Motion Skills Transferring (CS7641: Machine Learning)
+- *2022.05*, Impactful Scholar Map Based on Citation Network and Influence Numbers (CSE6242: Data and Visual Analytics)
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 💬 Research Presentations
+- *2016.04*, Identities Relating Stirling Numbers, Hudson River Undergraduate Math Conference (HRUMC), St. Michael’s College, Colchester, VT
+- *2017.04*, Elliptic Curves over Finite Extension Fields, Hudson River Undergraduate Math Conference (HRUMC), Westfield State University, Westfield, MA
+- *2018.04*, The Hilbert Scheme of Points of the Affine Plane, Hudson River Undergraduate Math Conference (HRUMC), St. Lawrence University, Canton, NY
+- *2018.05*, Elliptic Curves over Finite Extension Fields and Applications, 2018 Academic Festival, Skidmore College, Saratoga Springs, NY
 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
