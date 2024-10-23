@@ -24,18 +24,18 @@ Previously, I received B.A. in Mathematics and B.A in Computer Science from Skid
 My research interest includes algebraic geometry, machine learning theory, deep learning theory, reinforcement learning, and Data Science.
 
 # 📝 Ongoing Research&Project
-- Score-based Stochastic Network Diffusion Models for Connectomes Dynamics under Neurodegeneration ([Jiajia Xie](https://www.cse.gatech.edu/people/jiajia-xie), [Prof. Cassie S. Mitchell](https://bme.gatech.edu/bme/faculty/Cassie-S.-Mitchell))
-- Restless Multi-armed Bandit under Matroid Constraint ([Prof. Kai Wang](https://guaguakai.com/))
+- Score-based Stochastic Network Diffusion Models for Connectomes Dynamics under Neurodegeneration ([Jiajia Xie](https://www.cse.gatech.edu/people/jiajia-xie), [Prof. Cassie S. Mitchell](https://bme.gatech.edu/bme/faculty/Cassie-S.-Mitchell), Wallace H. Coulter Department of Biomedical Engineering)
+- Restless Multi-armed Bandit under Matroid Constraint ([Prof. Kai Wang](https://guaguakai.com/), School of Computational Science and Engineering)
 - Enhanced Spatial Temporal Time Series Forecasting for Traffic Prediction using Large Language Models (CS7650: Natural Language Processing)
 
 # 📝 Previous Projects
-- *2024.05*, Nonparametric Autoencoders ([Prof. Wenjing Liao](https://wliao60.math.gatech.edu/))
+- *2024.05*, Nonparametric Autoencoders ([Prof. Wenjing Liao](https://wliao60.math.gatech.edu/), School of Mathematics)
 - *2024.05*, Multimodal Analysis for Detecting Hateful Memes (CS 7643: Deep Learning)
-- *2023.12*, Physics Informed Neural Networks ([Prof. Shihao Yang](https://www.isye.gatech.edu/users/shihao-yang))
-- *2023.05*, Extended Dynamic Mode Decomposition ([Prof. Nisha Chandramoorthy](https://cse.gatech.edu/people/nisha-chandramoorthy))
+- *2023.12*, Physics Informed Neural Networks ([Prof. Shihao Yang](https://www.isye.gatech.edu/users/shihao-yang), H. Milton Stewart School of Industrial and Systems Engineering)
+- *2023.05*, Extended Dynamic Mode Decomposition ([Prof. Nisha Chandramoorthy](https://cse.gatech.edu/people/nisha-chandramoorthy), School of Computational Science and Engineering)
 - *2023.04*, Misinformation Detection on Social Network (CSE6240: Web Search & Text Mining)
 - *2023.04*, Evacuation Simulation: Based on Agent-based Model (CSE6730: Modeling and Simulation)
-- *2023.03*, Single-cell Clustering ([Prof. Xiuwei Zhang](https://research.gatech.edu/people/xiuwei-zhang))
+- *2023.03*, Single-cell Clustering ([Prof. Xiuwei Zhang](https://research.gatech.edu/people/xiuwei-zhang), School of Computational Science and Engineering)
 - *2022.12*, Relational Machine Learning for Knowledge Graphs (CSE8803NDA: Numerical Algorithms for Data Analytics)
 - *2022.12*, Analysis of Algorithms to Solve Minimum Vertex Cover Problem (CSE6140: Algorithm)
 - *2022.08*, TransMimic: Cross Morphologies Motion Skills Transferring (CS7641: Machine Learning)
