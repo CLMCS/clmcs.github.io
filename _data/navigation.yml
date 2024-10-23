@@ -3,8 +3,8 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Ongoing Research and Project"
-    url: "/#-ongoing-reserach-and-project"
+  - title: "Ongoing Research & Project"
+    url: "/#-ongoing-reserach-&-project"
 
   - title: "Previous Projects"
     url: "/#-previous-projects"
