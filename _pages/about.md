@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a MS student in Mathematics, Computational Science and Engineering, and Statistics at Georgia Tech, Atlanta, GA. 
-Previously, I earned my Bachelor of Arts in Mathematics and Bachelor of Arts in Computer Science supervised by Professor Mark E. Huibregtse
+Previously, I earned my Bachelor of Arts in Mathematics and Bachelor of Arts in Computer Science supervised by [Professor Mark E. Huibregtse](https://academics.skidmore.edu/blogs/mhuibreg/)
 
 <a href='https://sites.gatech.edu/cassie-mitchell-lab/'> <a href='https://academics.skidmore.edu/blogs/mhuibreg/'>
 
