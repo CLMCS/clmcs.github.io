@@ -4,13 +4,13 @@ main:
     url: "/#about-me"
 
   - title: "Ongoing Research & Project"
-    url: "/#-ongoing-reserach-&-project"
+    url: "/#-ongoing-research-&-project"
 
   - title: "Previous Projects"
     url: "/#-previous-projects"
 
   - title: "Research Presentations"
-    url: "/#-reserach-representations"
+    url: "/#-reserach-presentations"
 
   # - title: "Educations"
   #   url: "/#-educations"
