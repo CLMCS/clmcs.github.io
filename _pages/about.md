@@ -21,9 +21,9 @@ I am currently a MS student in Mathematics, Computational Science and Engineerin
 
 Previously, I received B.A. in Mathematics and B.A in Computer Science from Skidmore College under the supervision of [Prof. Mark E. Huibregtse](https://academics.skidmore.edu/blogs/mhuibreg/), focusing on Algebraic Geometry and Algorithm, especially in Hilbert Scheme of Points.
 
-My research interest includes algebraic geometry, machine learning theory, deep learning theory, reinforcement learning, and Data Science.
+My research interest includes algebraic geometry, machine learning theory, deep learning theory, reinforcement learning, and data science.
 
-# 🔥 Ongoing Research and Project
+# 🔥 Ongoing Research Projects
 - Score-based Stochastic Network Diffusion Models for Connectomes Dynamics under Neurodegeneration ([Jiajia Xie](https://www.cse.gatech.edu/people/jiajia-xie), [Prof. Cassie S. Mitchell](https://bme.gatech.edu/bme/faculty/Cassie-S.-Mitchell), Wallace H. Coulter Department of Biomedical Engineering)
 - Restless Multi-armed Bandit under Matroid Constraint ([Prof. Kai Wang](https://guaguakai.com/), School of Computational Science and Engineering)
 - Enhanced Spatial Temporal Time Series Forecasting for Traffic Prediction using Large Language Models (CS7650: Natural Language Processing)
