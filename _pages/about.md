@@ -27,6 +27,7 @@ My research interest includes algebraic geometry, machine learning theory, deep 
 - Score-based Stochastic Network Diffusion Models for Connectomes Dynamics under Neurodegeneration ([Jiajia Xie](https://www.cse.gatech.edu/people/jiajia-xie), [Prof. Cassie S. Mitchell](https://bme.gatech.edu/bme/faculty/Cassie-S.-Mitchell), Wallace H. Coulter Department of Biomedical Engineering)
 - Restless Multi-armed Bandit under Matroid Constraint ([Prof. Kai Wang](https://guaguakai.com/), School of Computational Science and Engineering)
 - Enhanced Spatial Temporal Time Series Forecasting for Traffic Prediction using Large Language Models (CS7650: Natural Language Processing)
+- Title TBD (ISyE7400: Advanced Design of Experiments)
 
 # 📝 Previous Projects
 - *2024.05*, Nonparametric Autoencoders ([Prof. Wenjing Liao](https://wliao60.math.gatech.edu/), School of Mathematics)
