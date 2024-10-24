@@ -23,7 +23,7 @@ Previously, I received B.A. in Mathematics and B.A in Computer Science from Skid
 
 My research interest includes algebraic geometry, machine learning theory, deep learning theory, reinforcement learning, and Data Science.
 
-# 📝 Ongoing Research & Project
+# 🔥 Ongoing Research & Project
 - Score-based Stochastic Network Diffusion Models for Connectomes Dynamics under Neurodegeneration ([Jiajia Xie](https://www.cse.gatech.edu/people/jiajia-xie), [Prof. Cassie S. Mitchell](https://bme.gatech.edu/bme/faculty/Cassie-S.-Mitchell), Wallace H. Coulter Department of Biomedical Engineering)
 - Restless Multi-armed Bandit under Matroid Constraint ([Prof. Kai Wang](https://guaguakai.com/), School of Computational Science and Engineering)
 - Enhanced Spatial Temporal Time Series Forecasting for Traffic Prediction using Large Language Models (CS7650: Natural Language Processing)
