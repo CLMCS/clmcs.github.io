@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a MS student in Mathematics, Computational Science and Engineering, and Statistics under [School of Mathematics](https://math.gatech.edu/) at Georgia Tech, Atlanta, GA. I am fortunate to be part of [Prof. Kai Wang](https://guaguakai.com/)'s team. Currently, I am onboarding with [Prof. Cassie S. Mitchell](https://bme.gatech.edu/bme/faculty/Cassie-S.-Mitchell), PI at [Laboratory for Pathology Dynamics](https://sites.gatech.edu/cassie-mitchell-lab/), under the guidance of PhD student [Jiajia Xie](https://www.cse.gatech.edu/people/jiajia-xie), and will be a Graduate Research Assistant (GRA) starting in January 2025.
+I am currently a MS student in Mathematics, Computational Science and Engineering, and Statistics under [School of Mathematics](https://math.gatech.edu/) at Georgia Tech, Atlanta, GA. I am fortunate to be part of [Prof. Kai Wang](https://guaguakai.com/)'s team. Currently, I am a Graduate Research Assistant (GRA) with [Prof. Cassie S. Mitchell](https://bme.gatech.edu/bme/faculty/Cassie-S.-Mitchell), PI at [Laboratory for Pathology Dynamics](https://sites.gatech.edu/cassie-mitchell-lab/), under the guidance of PhD student [Jiajia Xie](https://www.cse.gatech.edu/people/jiajia-xie).
 
 Previously, I received B.A. in Mathematics and B.A in Computer Science from Skidmore College under the supervision of [Prof. Mark E. Huibregtse](https://academics.skidmore.edu/blogs/mhuibreg/), focusing on Algebraic Geometry and Algorithm, especially in Hilbert Scheme of Points.
 
@@ -25,11 +25,12 @@ My research interest includes algebraic geometry, machine learning theory, deep 
 
 # 🔥 Ongoing Research Projects
 - Score-based Stochastic Network Diffusion Models for Connectomes Dynamics under Neurodegeneration ([Jiajia Xie](https://www.cse.gatech.edu/people/jiajia-xie), [Prof. Cassie S. Mitchell](https://bme.gatech.edu/bme/faculty/Cassie-S.-Mitchell), Wallace H. Coulter Department of Biomedical Engineering)
+- Optimization Algorithms and Graph Theory (review anonymization)
 - Restless Multi-armed Bandit under Matroid Constraint ([Prof. Kai Wang](https://guaguakai.com/), School of Computational Science and Engineering)
-- Enhanced Spatial Temporal Time Series Forecasting for Traffic Prediction using Large Language Models (CS7650: Natural Language Processing)
-- Title TBD (ISyE7400: Advanced Design of Experiments)
 
 # 📝 Previous Projects
+- *2024.12*, Enhanced Spatial Temporal Time Series Forecasting for Traffic Prediction Using Large Language Models (CS7650: Natural Language Processing)
+- *2024.12*, Modeling Neurodegenerative Connectome Dynamics: A Physics-Constrained Bayesian Approach with Kriging (ISyE7400: Advanced Design of Experiments)
 - *2024.05*, Nonparametric Autoencoders ([Prof. Wenjing Liao](https://wliao60.math.gatech.edu/), School of Mathematics)
 - *2024.05*, Multimodal Analysis for Detecting Hateful Memes (CS 7643: Deep Learning)
 - *2023.12*, Physics Informed Neural Networks ([Prof. Shihao Yang](https://www.isye.gatech.edu/users/shihao-yang), H. Milton Stewart School of Industrial and Systems Engineering)
