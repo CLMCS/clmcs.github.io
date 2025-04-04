@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a MS student in Mathematics, Computational Science and Engineering, and Statistics under [School of Mathematics](https://math.gatech.edu/) at Georgia Tech, Atlanta, GA. I am fortunate to be part of [Prof. Kai Wang](https://guaguakai.com/)'s team. Currently, I am a Graduate Research Assistant (GRA) with [Prof. Cassie S. Mitchell](https://bme.gatech.edu/bme/faculty/Cassie-S.-Mitchell), PI at [Laboratory for Pathology Dynamics](https://sites.gatech.edu/cassie-mitchell-lab/), under the guidance of PhD student [Jiajia Xie](https://www.cse.gatech.edu/people/jiajia-xie).
+I am currently a MS student in Mathematics, Computational Science and Engineering, and Statistics under [School of Mathematics](https://math.gatech.edu/) at Georgia Tech, Atlanta, GA. I am pleased to share that I will be joining the [ACES Laboratory](https://aces.ece.gatech.edu/) as a PhD student in Machine Learning starting Fall 2025 supervised by [Prof. Santiago Carlos Grijalva](https://ece.gatech.edu/directory/santiago-carlos-grijalva). I am fortunate to be part of [Prof. Kai Wang](https://guaguakai.com/)'s team. Currently, I am a Graduate Research Assistant (GRA) with [Prof. Cassie S. Mitchell](https://bme.gatech.edu/bme/faculty/Cassie-S.-Mitchell), PI at [Laboratory for Pathology Dynamics](https://sites.gatech.edu/cassie-mitchell-lab/), under the guidance of PhD student [Jiajia Xie](https://www.cse.gatech.edu/people/jiajia-xie).
 
 Previously, I received B.A. in Mathematics and B.A in Computer Science from Skidmore College under the supervision of [Prof. Mark E. Huibregtse](https://academics.skidmore.edu/blogs/mhuibreg/), focusing on Algebraic Geometry and Algorithm, especially in Hilbert Scheme of Points.
 
