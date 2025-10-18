@@ -25,7 +25,6 @@ My research interests include algebraic geometry, optimization, machine learning
 
 # 🔥 Ongoing Research Projects
 - Electricity system optimization
-- Score-based Stochastic Network Diffusion Models for Connectomes Dynamics under Neurodegeneration ([Jiajia Xie](https://www.cse.gatech.edu/people/jiajia-xie), [Prof. Cassie S. Mitchell](https://bme.gatech.edu/bme/faculty/Cassie-S.-Mitchell), Wallace H. Coulter Department of Biomedical Engineering)
 - Online data and Optimization
 - Restless Multi-armed Bandit under Matroid Constraint ([Prof. Kai Wang](https://guaguakai.com/), School of Computational Science and Engineering)
 
