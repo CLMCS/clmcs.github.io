@@ -29,12 +29,17 @@ My research interests include algebraic geometry, optimization, machine learning
 - RL / Online Decision Making (under review)
 - Diffusion model (under review)
 - Nonlinear control and Auto-encoder
+- Safety-aware Deep Reinforcement Learning
+- Score-based Generative Model
 
 
 # 📝 Publications 
 - `BDCC 2025`[Source Robust Non-Parametric Reconstruction of Epidemic-like Event-Based Network Diffusion Processes Under Online Data](https://www.mdpi.com/2504-2289/9/10/262) Jiajia Xie, **Chen Lin**, Xinyu Guo, Cassie S. Mitchell
 
 # 📝 Previous Projects
+- *2026.05*, Multi-Agent Competition in SoccerTwos: Reward Shaping and Opponent Training (Ranked 2nd/60 teams) (CS8803DRL: Deep Reinforcement Learning)
+- *2026.05*, UCB for Bandits with Multiple Partition Constraints (ECE6756: Online Decision Making in Machine Learning)
+- *2025.12*, Resilient Self-Forming Microgrid with Coordinated Solar PV and Battery Storage (ECE6320: Power System Control & Operation)
 - *2025.05*, Restless Multi-armed Bandit under Matroid Constraint ([Prof. Kai Wang](https://guaguakai.com/), School of Computational Science and Engineering)
 - *2024.12*, Enhanced Spatial Temporal Time Series Forecasting for Traffic Prediction Using Large Language Models (CS7650: Natural Language Processing)
 - *2024.12*, Modeling Neurodegenerative Connectome Dynamics: A Physics-Constrained Bayesian Approach with Kriging (ISyE7400: Advanced Design of Experiments)
