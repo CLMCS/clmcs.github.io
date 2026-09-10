@@ -28,7 +28,7 @@ My research interests include algebraic geometry, optimization, machine learning
 - Online data and Optimization
 - RL / Online Decision Making (under review)
 - Diffusion model (under review)
-- Nonlinear control and Auto-encoder
+- Nonlinear control and Autoencoder (under review)
 - Safety-aware Deep Reinforcement Learning
 - Score-based Generative Model
 
