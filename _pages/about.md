@@ -37,6 +37,7 @@ My research interests include algebraic geometry, optimization, machine learning
 # 📝 Publications 
 - `BDCC 2025`[Source Robust Non-Parametric Reconstruction of Epidemic-like Event-Based Network Diffusion Processes Under Online Data](https://www.mdpi.com/2504-2289/9/10/262) Jiajia Xie, **Chen Lin**, Xinyu Guo, Cassie S. Mitchell
 <!-- - `ACDSA 2027` [Online Whittle Index Learning for Resource Allocation under Partition Matroid Constraints]() **Chen Lin**, Santiago C. Grijalva -->
+<!-- `npj Dementia` [Closed-loop network dynamics reveals non-monotonic vulnerability signatures in Alzheimer’s disease]() Jiajia Xie, **Chen Lin**, Xinyu Guo, Hongyu Xue, James J. Lah, Cassie S. Mitchell -->
 
 # 📝 Previous Projects
 - *2026.05*, Multi-Agent Competition in SoccerTwos: Reward Shaping and Opponent Training (Ranked 2nd/60 teams) (CS8803DRL: Deep Reinforcement Learning)
