@@ -17,21 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student in Machine Learning ([ECE](https://ece.gatech.edu/)) with M.S. in ECE (expected 2026) advised by [Prof. Santiago C. Grijalva](https://ece.gatech.edu/directory/santiago-carlos-grijalva) and affiliated with the [ACES Laboratory](https://aces.ece.gatech.edu/) at Georgia Tech, Atlanta, GA. I previsouly earned M.S. degrees in Mathematics (2023), Computational Science and Engineering (2024), and Statistics (2025) from the [School of Mathematics](https://math.gatech.edu/) at GaTech. I was a Graduate Research Assistant (GRA) with [Prof. Cassie S. Mitchell](https://bme.gatech.edu/bme/faculty/Cassie-S.-Mitchell), PI of the [Laboratory for Pathology Dynamics](https://sites.gatech.edu/cassie-mitchell-lab/), under the guidance of Ph.D. [Jiajia Xie](https://www.cse.gatech.edu/people/jiajia-xie) in the Spring 2025.
+I am currently a Ph.D. student in Machine Learning ([ECE](https://ece.gatech.edu/)) with M.S. in ECE (expected 2026) advised by [Prof. Santiago C. Grijalva](https://ece.gatech.edu/directory/santiago-carlos-grijalva) and affiliated with the [ACES Laboratory](https://aces.ece.gatech.edu/) at Georgia Tech, Atlanta, GA. I previsouly earned M.S. degrees in Mathematics, Computational Science and Engineering, and Statistics from the [School of Mathematics](https://math.gatech.edu/) at GaTech. I was a Graduate Research Assistant (GRA) with [Prof. Cassie S. Mitchell](https://bme.gatech.edu/bme/faculty/Cassie-S.-Mitchell), PI of the [Laboratory for Pathology Dynamics](https://sites.gatech.edu/cassie-mitchell-lab/), under the guidance of Ph.D. [Jiajia Xie](https://www.cse.gatech.edu/people/jiajia-xie) in the Spring 2025.
 
 Previously, I received B.A. in Mathematics and B.A in Computer Science from Skidmore College under the supervision of [Prof. Mark E. Huibregtse](https://academics.skidmore.edu/blogs/mhuibreg/), focusing on Algebraic Geometry and Algorithm, especially in Hilbert Scheme of Points.
 
-My research interests include algebraic geometry, optimization, machine learning theory, deep learning theory, reinforcement learning, control, and data science.
+My research interests include algebraic geometry, optimization, machine learning theory, deep learning theory with uncertainty quantification, reinforcement learning, control, and data science.
 
 # 🔥 Ongoing Research Projects
 - Electricity system optimization
 - Online data and Optimization
-- RL / Online Learning (under review)
+- RL / Online Learning (**accepted**)
 - RL / Structured Decision Making (under review)
-- Diffusion model 
+- Diffusion model for state estimation (under review)
+- Temporal Diffusion models
+- Stochastic Closed-loop Vulnerability Analysis
 - Nonlinear control and Autoencoder (under review)
 - Safety-aware Deep Reinforcement Learning
-- Score-based Generative Model (under review)
+- Score-based Generative Model (**accepted**)
 
 
 # 📝 Publications 
