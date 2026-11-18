@@ -17,19 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student in Machine Learning ([ECE](https://ece.gatech.edu/)) advised by [Prof. Santiago C. Grijalva](https://ece.gatech.edu/directory/santiago-carlos-grijalva) and affiliated with the [ACES Laboratory](https://aces.ece.gatech.edu/) at Georgia Tech, Atlanta, GA. In Spring 2025, I was a Graduate Research Assistant (GRA) with [Prof. Cassie S. Mitchell](https://bme.gatech.edu/bme/faculty/Cassie-S.-Mitchell), PI of the [Laboratory for Pathology Dynamics](https://sites.gatech.edu/cassie-mitchell-lab/), under the guidance of Dr. [Jiajia Xie](https://www.cse.gatech.edu/people/jiajia-xie). My undergraduate research at Skidmore College focused on algebraic geometry, particularly Hilbert schemes of points, under the supervision of [Prof. Mark E. Huibregtse](https://academics.skidmore.edu/blogs/mhuibreg/).
+I am currently a Ph.D. student in Machine Learning ([ECE](https://ece.gatech.edu/)) with M.S. in ECE (expected 2026) advised by [Prof. Santiago C. Grijalva](https://ece.gatech.edu/directory/santiago-carlos-grijalva) and affiliated with the [ACES Laboratory](https://aces.ece.gatech.edu/) at Georgia Tech, Atlanta, GA. I previsouly earned M.S. degrees in Mathematics, Computational Science and Engineering, and Statistics from the [School of Mathematics](https://math.gatech.edu/) at GaTech. I was a Graduate Research Assistant (GRA) with [Prof. Cassie S. Mitchell](https://bme.gatech.edu/bme/faculty/Cassie-S.-Mitchell), PI of the [Laboratory for Pathology Dynamics](https://sites.gatech.edu/cassie-mitchell-lab/), under the guidance of Dr. [Jiajia Xie](https://www.cse.gatech.edu/people/jiajia-xie) in the Spring 2025.
 
-# 📖 Education
-**Georgia Institute of Technology**, Atlanta, GA
-- 2025-Present, Ph.D. in Machine Learning, 2025–Present
-- Expected 2026.12, M.S. in Electrical and Computer Engineering
-- 2025.05, M.S. in Statistics
-- 2024.12, M.S. in Computational Science and Engineering
-- 2023.05, M.S. in Mathematics, 2023
-
-**Skidmore College**, Saratoga Springs, NY
-- B.A. in Mathematics
-- B.A. in Computer Science
+Previously, I received B.A. in Mathematics and B.A in Computer Science from Skidmore College under the supervision of [Prof. Mark E. Huibregtse](https://academics.skidmore.edu/blogs/mhuibreg/), focusing on Algebraic Geometry and Algorithm, especially in Hilbert Scheme of Points.
 
 My research interests include algebraic geometry, optimization, machine learning theory, deep learning theory with uncertainty quantification, reinforcement learning, control, and data science.
 
